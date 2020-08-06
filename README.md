@@ -1,0 +1,2 @@
+# FriendsSpotsite
+App launch Site
