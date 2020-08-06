@@ -1,0 +1,240 @@
+#title {
+  color: #3c2c3e;
+  background-color: #856c8b;
+}
+
+h1 {
+  font-family: 'Lemon', cursive;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #5a3d55;
+}
+
+h2 {
+  padding-bottom: 5%;
+  color: #2c003e;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  color: #827397;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  color: #3c2c3e;
+}
+
+.navbar-dark {
+  color: #3c2c3e;
+}
+
+.navbar {
+  padding: 0 0 3.5rem;
+}
+
+.navbar-dark .navbar-brand {
+  color: #3c2c3e;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #3c2c3e;
+  font-family: 'Lemon', cursive;
+  ;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #322f3d;
+  padding-left: 0;
+}
+
+.download-button {
+  margin: 10% 4% 10% 0;
+}
+
+.title-image {
+  width: 50%;
+  position: relative;
+  bottom: 20px;
+  left: 100px;
+  margin-bottom: 10%;
+  padding-bottom: 5%;
+}
+
+.nav-link {
+  font-family: 'Lemon', cursive;
+  margin: 10px;
+  padding: 10px;
+  color: #322f3d;
+}
+
+#features {
+  margin: 5% 15%;
+  background-color: #dbc6eb;
+}
+
+.back {
+  background-color: #dbc6eb;
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.titleheads {
+  color: #3c2c3e;
+  padding: 20px 20px;
+  margin:auto;
+}
+
+.feature-box {
+  padding: 5%;
+  text-align: center;
+}
+
+.fire-icon {
+  color: #ff5733;
+  font-size: 4rem;
+  padding-bottom: 15px;
+}
+
+.fire-icon:hover {
+  color: #cf1b1b;
+}
+
+.question-icon {
+  color: #00bcd4;
+  font-size: 4rem;
+  padding-bottom: 15px;
+}
+
+.tick-icon {
+  color: #21bf73;
+  font-size: 4rem;
+  padding-bottom: 15px;
+}
+
+.tick-icon:hover {
+  color: #79d70f;
+}
+
+.question-icon:hover {
+  color: #07031a;
+}
+
+#Screens {
+  padding: 5% 15%;
+  text-align: center;
+  font-family: 'Lemon', cursive;
+  background-color: #827397;
+}
+
+.carousel-pic {
+  width: 20%;
+}
+
+#press {
+  background-color: #827397;
+  padding: 4%;
+}
+
+.press-image {
+  width: 15%;
+  margin: 20px 20px 50px 100px;
+}
+
+@media (max-width: 990px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+  }
+}
+
+#cta {
+  padding: 8% 15% 2%;
+  text-align: center;
+  margin: auto;
+  font-size: 2rem;
+  text-shadow: 20px;
+  background-color: #ffc1fa;
+}
+.button-down{
+  margin-top: 40px;
+}
+.button-down:hover{
+  background-color: #006a71;
+}
+#footer{
+  padding: 2% 15%;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  bottom:0;
+  font-size: 14px;
+  background-color: #ad6989;
+}
+.ps{
+  text-align: center;
+  color:#ad9d9d;
+  font-family:font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+  padding:5%;
+}
+.link-img{
+  font-size: 1.5rem;
+  text-align: center;
+  margin:1% 10px;
+  color: #000;
+}
+.hov-img1:hover{
+  color:#e84a5f;
+}
+.hov-img2:hover{
+  color: #2bb2bb;
+}
+.hov-img3:hover{
+  color: #1b6ca8;
+}
+.hov-img4:hover{
+  color: #000;
+}
+.Copyright{
+  color: #000;
+}
+.up{
+  color: #363636;
+  z-index: 1;
+  position: fixed;
+  bottom: 20px;
+  right: 2px;
+  width: 80px;
+}
+.up:hover{
+  color: #dbc6eb;
+}
+.download{
+  text-decoration: none;
+  color: #000;
+}
+.download:hover{
+  text-decoration: none;
+}
+.download1{
+  text-decoration: none;
+  color: #000;
+}
+.download1:hover{
+  background-color: #006a71;
+  color: #000;
+  text-decoration: none;
+}
