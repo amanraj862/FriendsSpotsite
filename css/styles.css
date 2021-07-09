@@ -141,16 +141,6 @@ p {
   width: 20%;
 }
 
-#press {
-  background-color: #827397;
-  padding: 4%;
-}
-
-.press-image {
-  width: 15%;
-  margin: 20px 20px 50px 100px;
-}
-
 @media (max-width: 990px) {
   #title {
     text-align: center;
